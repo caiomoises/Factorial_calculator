@@ -1,2 +1,2 @@
 # factorial_calculator
-calculadora fatorial usando vetores 
+- calculadora fatorial usando vetores 
